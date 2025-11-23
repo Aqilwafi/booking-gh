@@ -7,8 +7,8 @@ type Guesthouse = {
 };
 
 const guesthouses: Guesthouse[] = [
-  { name: "47 Guesthouse", description: "Self-catering, B&B ...", imageUrl: "/images/gh1.jpeg", link: "/guesthouse/47" },
-  { name: "Four Guesthouse Brits", description: "Guest House, B&B ...", imageUrl: "/images/gh2.jpeg", link: "/guesthouse/four" },
+  { name: "47 Guesthouse", description: "Self-catering, B&B ...", imageUrl: "/images/gh1.jpeg", link: "/guesthouse/gh1" },
+  { name: "Four Guesthouse Brits", description: "Guest House, B&B ...", imageUrl: "/images/gh2.jpeg", link: "/guesthouse/gh1" },
 ];
 
 export default function FeaturedGuesthouses() {

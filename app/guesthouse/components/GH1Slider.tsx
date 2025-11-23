@@ -8,7 +8,8 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 const images = [
   "/images/gh1.jpeg",
   "/images/gh2.jpeg",
-  "/images/gh1.jpeg",
+  "/images/home_kanan.jpeg",
+  "/images/home_kiri.jpeg",
 ];
 
 export default function GH1Slider() {
